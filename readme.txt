@@ -1,3 +1,5 @@
+This is a very basic and simple linear interpolation tool. This will help you expedite the calculation and estimation of values in between other values. It can be used, for instance, in referencing thermodynamic property tables for engineering calculations, or for just quickly finding a value on a line between two known points.
+
 linear_interpolator Executable
 
 1. Prerequisites for Deployment 
